@@ -1,0 +1,2 @@
+# baby-monitoring-system-using-iot
+ This particular project is a solution developed for all the busy mothers and single fathers to take proper care of their little one. The Android app for kids is a complete guide and a memory tool for parents. The Baby monitor application helps parents to follow everything in a simple way and helps parents get satisfaction. We have felt the need to design this advanced Baby Care Android Application for the Android platform and we ensure the best possible performance, quality of the android application.
